@@ -442,7 +442,7 @@
 
 .contact__us__section {
     height: 250px;
-    background-image: linear-gradient(to right bottom, #FF9933, #c45d18);
+    background-color: #FF9933;
     border-radius: 20px;
 }
 
